@@ -1,4 +1,4 @@
-<h1>https://joswinemmanuel.github.io/Flutter-Quiz-App/</h1>
+<h1>https://joswinemmanuel.github.io/Python-Quiz-App/</h1>
 <h4>Above is the link to WebApp hosted in github pages</h4>
 
 # quiz_app
